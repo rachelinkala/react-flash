@@ -1,0 +1,13 @@
+{
+  "name": "react-flash",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "description": "A react flash component",
+  "homepage": "https://github.com/rachelinkala/react-flash",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rachelinkala/react-flash"
+  },
+  "author": "rachelinkala",
+  "license": "MIT"
+}
